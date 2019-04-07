@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Nick\source\repos\DNK\x64\Debug\Sample-Test1.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="RNKTest.RNKisComplimentary" Duration="1" />
+    <TestDuration Test="RNKTest.RNKComplimentary" Duration="1" />
+    <TestDuration Test="RNKTest.RNKisEqual" Duration="1" />
+    <TestDuration Test="RNKTest.RNKLenght" Duration="1" />
+    <TestDuration Test="RNKTest.RNKCardinality" Duration="1" />
+    <TestDuration Test="RNKTest.RNKSum" Duration="1" />
+    <TestDuration Test="RNKTest.RNKSplit" Duration="1" />
+    <TestDuration Test="RNKTest.RNKControlTests" Duration="1" />
+    <TestDuration Test="RNKTest.RNKLeak" Duration="2855" />
+  </TestDurations>
+</GtaTestDurations>
